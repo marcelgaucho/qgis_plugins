@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/PreencheSelecionada" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
